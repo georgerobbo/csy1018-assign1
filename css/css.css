@@ -69,4 +69,18 @@ header {
 .form {
   text-align: center;
     align-content: center;
+    font-family: 'Patua One', cursive;
+}
+
+.bio_article1 {
+  background-color: rgba(64, 64, 64, 0.1);
+  box-shadow: 0.2em,0.2em,0.2em,0.1em, rgba(64, 64, 64, 0.5);
+
+}
+
+.bio_article2 {
+  background-color: rgba(64, 64, 64, 0.1);
+  box-shadow: 0.2em,0.2em,0.2em,0.1em, rgba(64, 64, 64, 0.5);
+  position: relative;
+  left: auto;
 }
