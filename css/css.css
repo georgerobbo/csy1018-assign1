@@ -88,8 +88,6 @@ body {
     margin-left: 170px;
     margin-right: 30px;
     background-color: rgb(209, 209, 209)
-
-
 }
 
 .col2 {
@@ -101,8 +99,7 @@ body {
     font-size: 15px;
     align-self: auto;
     margin-right: 30px;
-  background-color: rgb(209, 209, 209)
-
+    background-color: rgb(209, 209, 209)
 }
 
 .col3 {
@@ -113,6 +110,5 @@ body {
     box-shadow: 4px 4px 2px #888888;
     font-size: 15px;
     align-self: auto;
-  background-color:  rgb(209, 209, 209)
-
+    background-color: rgb(209, 209, 209)
 }
