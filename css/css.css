@@ -8,7 +8,6 @@ body {
 
 .navbar {
     display: inline-block;
-    padding-top: ;
     padding-bottom: 15px;
     background-color: hsla(0, 0%, 87%, 0);
     font-weight: 400;
@@ -57,18 +56,6 @@ body {
     font-size: 1.7em
 }
 
-.bio_article1 {
-    background-color: rgba(64, 64, 64, 0.1);
-    box-shadow: 0.2em, 0.2em, 0.2em, 0.1em, rgba(64, 64, 64, 0.5);
-    justify-content: space-around;
-}
-
-.bio_article2 {
-    background-color: rgba(64, 64, 64, 0.1);
-    box-shadow: 0.2em, 0.2em, 0.2em, 0.1em, rgba(64, 64, 64, 0.5);
-    justify-content: space-around;
-}
-
 .biobody {
     display: flex;
     flex-direction: row;
@@ -82,7 +69,6 @@ body {
     height: auto;
     display: inline-block;
     box-shadow: 4px 4px 2px #888888;
-    margin: ;
     font-size: 15px;
     align-self: auto;
     margin-left: 170px;
@@ -94,7 +80,6 @@ body {
     width: 25%;
     height: auto;
     display: inline-block;
-    margin: ;
     box-shadow: 4px 4px 2px #888888;
     font-size: 15px;
     align-self: auto;
@@ -106,7 +91,6 @@ body {
     width: 25%;
     height: auto;
     display: inline-block;
-    margin: ;
     box-shadow: 4px 4px 2px #888888;
     font-size: 15px;
     align-self: auto;
