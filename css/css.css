@@ -15,9 +15,9 @@ body {
     align-content: center;
 }
 
-.navbarsection{
-  margin-left: auto;
-  margin-right: auto;
+.navbarsection {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .navl {
@@ -35,25 +35,23 @@ body {
     align-items: stretch;
     align-self: stretch;
     height: inherit;
-
 }
 
 .imageheader {
-  height: inherit;
-  width: inherit;
+    height: inherit;
+    width: inherit;
 }
 
 .homeimg {
-  height: 500px;
-  width: 300px;
-  margin-left: auto;
-  margin-right: auto;
-
+    height: 500px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .imghome {
-  height: inherit;
-  width: inherit;
+    height: inherit;
+    width: inherit;
 }
 
 .mainwrapper {
@@ -104,7 +102,6 @@ body {
 }
 
 .col2 {
-
     width: 25%;
     height: auto;
     display: inline-block;
@@ -125,16 +122,14 @@ body {
     background-color: rgb(209, 209, 209)
 }
 
-.col1text{
-  height: auto;
+.col1text {
+    height: auto;
 }
 
-.col2text{
-  height: auto;
-
+.col2text {
+    height: auto;
 }
 
-.col3text{
-  height: auto;
-
+.col3text {
+    height: auto;
 }
