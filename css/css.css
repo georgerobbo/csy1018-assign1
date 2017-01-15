@@ -15,6 +15,11 @@ body {
     align-content: center;
 }
 
+.navbarsection{
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .navl {
     margin: 20px;
     color: inherit;
@@ -25,16 +30,37 @@ body {
 .hero {
     display: flex;
     flex: 1;
-    background-image: linear-gradient(180deg, rgba(1, 78, 46, .28), #7e7511);
     background-position: 0px 0px, 50% 50%;
     background-size: auto, cover;
+    align-items: stretch;
+    align-self: stretch;
+    height: inherit;
+
+}
+
+.imageheader {
+  height: inherit;
+  width: inherit;
+}
+
+.homeimg {
+  height: 500px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.imghome {
+  height: inherit;
+  width: inherit;
 }
 
 .mainwrapper {
     display: flex;
-    height: 50vh;
+    height: 70vh;
     flex-direction: column;
-    align-items: center;
+    align-items: stretch;
 }
 
 .heading {
@@ -58,10 +84,11 @@ body {
 
 .biobody {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-left: 50px
+    padding-left: 50px;
+    height: auto;
 }
 
 .col1 {
@@ -77,6 +104,7 @@ body {
 }
 
 .col2 {
+
     width: 25%;
     height: auto;
     display: inline-block;
@@ -95,4 +123,18 @@ body {
     font-size: 15px;
     align-self: auto;
     background-color: rgb(209, 209, 209)
+}
+
+.col1text{
+  height: auto;
+}
+
+.col2text{
+  height: auto;
+
+}
+
+.col3text{
+  height: auto;
+
 }
